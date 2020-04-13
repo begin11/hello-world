@@ -1,2 +1,3 @@
 # hello-world
 Just getting started...
+Never touched code in my life but just started to get interested in single board computers and electronics so now is a good time to try this out too!
